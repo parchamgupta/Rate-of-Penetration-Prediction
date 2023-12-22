@@ -1,1 +1,1 @@
-# Rate-of-Penetration-Prediction
+The project is aimed at predicting the rate of penetration for natural gas and oil mines. It is based on using random forests and other ensemble based models along with feature selection techniques, hyperparameter tuning and randomized and grid search methods to achieve an accuracy of above 95%. This was done as a part of the PetroCoder National Challenge 2021. The project achieved a national rank of 4 in the competition.
